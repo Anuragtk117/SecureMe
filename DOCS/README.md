@@ -1,6 +1,6 @@
 # SecureMe
 
 A Personal security app with Flutter
-![Screenshots](/DOCS/firstpage.jpg)
-![](/DOCS/homepage.jpg)
+![Screenshots](/DOCS/login.webp)
+![](/DOCS/homepage.webp)
 
